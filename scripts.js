@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert('believe in yourself , single failure cannot decide your future.');
 }
 
 //move button on hover
