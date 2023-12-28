@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('believe on yourself , single failure cannot decide your future.');
+    alert('believe oneself, single failure cannot decide your future.');
 }
 
 //move button on hover
